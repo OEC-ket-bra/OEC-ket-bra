@@ -2,20 +2,20 @@
 
 
 ## Interests. 🔥
-- Physics and Math 👨‍🎓
-- Whisky 🥃
-- Swimming 🏊
-- Cycling 🚲
+- Applied Mathematics（応用数学）
+- Data Science （データサイエンス）
 
 ## Research theme. 🔎
-- Inflationaly universe scenario
-- Nonlinear Physics
-- Solitons and Instantons in field theory
-- Numerical calculation
-- Mathematical model using dynamical system
+- Nonlinear Dynamics（非線形力学）
+- Chaos（カオス）
+- Ergodic Theory（エルゴード理論）
+- Reservoir Computing（リザバーコンピューティング）
+- Time Series Analysis and Prediction（時系列分析・予測）
+- Mathematical Modeling（モデリング）
+- Synchronization（同期理論）
 
 ## Recent work. 👨‍🔬
-- PINN (:Physics-Informed Neural Network) Extensions and Applications for some dynamical system
+- Hyperparameter tuning of reservoir computers for attractor reconstruction（アトラクタ再構成のためのリザバーコンピューティングのhyperparameter tuning）
 
 
 ## Skills. 💪
