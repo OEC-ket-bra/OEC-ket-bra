@@ -19,8 +19,7 @@
 （アトラクタ再構成のためのリザバーコンピューティングのハイパーパラメーターチューニング）
 
 ## Skills. 💪
-[(image/c.png)]
-[![mathematica](image/mathematica.png)](https://www.wolfram.com/)
+[![c](image/c.png)](https://en.wikipedia.org/wiki/C_(programming_language)))
 [![fortran](image/fortran.png)](https://en.wikipedia.org/wiki/Fortran)
 [![julia](image/julia.png)](https://julialang.org/)
 [![python](image/python.png)](https://www.python.org/)
