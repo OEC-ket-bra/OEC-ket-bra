@@ -7,7 +7,7 @@
 
 ## Research theme. 🔎
 - Nonlinear Dynamics（非線形力学）
-- Chaos（カオス）
+- Chaos（カオス理論）
 - Ergodic Theory（エルゴード理論）
 - Reservoir Computing（リザバーコンピューティング）
 - Time Series Analysis and Prediction（時系列分析・予測）
@@ -15,8 +15,8 @@
 - Synchronization（同期理論）
 
 ## Recent work. 👨‍🔬
-- Hyperparameter tuning of reservoir computers for attractor reconstruction（アトラクタ再構成のためのリザバーコンピューティングのhyperparameter tuning）
-
+- Hyperparameter tuning of reservoir computers for attractor reconstruction
+（アトラクタ再構成のためのリザバーコンピューティングのハイパーパラメーターチューニング）
 
 ## Skills. 💪
 [![cpp](image/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
