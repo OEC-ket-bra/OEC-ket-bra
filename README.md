@@ -18,13 +18,6 @@
 - Hyperparameter tuning of reservoir computers for attractor reconstruction
 （アトラクタ再構成のためのリザバーコンピューティングのハイパーパラメーターチューニング）
 
-## Skills. 💪
-[![c](image/c.png)](https://en.wikipedia.org/wiki/C_(programming_language)))
-[![fortran](image/fortran.png)](https://en.wikipedia.org/wiki/Fortran)
-[![julia](image/julia.png)](https://julialang.org/)
-[![python](image/python.png)](https://www.python.org/)
-[![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
-
 ## Messages.
 I want to enhance each other by discussing and sharing knowledge. Feel free to contact me for talking, drinking, presentations, etc.! 👀👀
 
