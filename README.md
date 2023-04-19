@@ -17,8 +17,3 @@
 ## Recent work. 👨‍🔬
 - Hyperparameter tuning of reservoir computers for attractor reconstruction
 （アトラクタ再構成のためのリザバーコンピューティングのハイパーパラメーターチューニング）
-
-## Messages.
-I want to enhance each other by discussing and sharing knowledge. Feel free to contact me for talking, drinking, presentations, etc.! 👀👀
-
-<img src=image/sozai1.png alt=icon2 width="500">
