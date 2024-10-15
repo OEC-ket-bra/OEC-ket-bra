@@ -13,7 +13,3 @@
 - Time Series Analysis and Prediction（時系列分析・予測）
 - Mathematical Modeling（モデリング）
 - Synchronization（同期理論）
-
-## Recent work. 👨‍🔬
-- Hyperparameter tuning of reservoir computers for attractor reconstruction
-（アトラクタ再構成のためのリザバーコンピューティングのハイパーパラメーターチューニング）
